@@ -1,4 +1,4 @@
-Système de Gestion Bancaire – Java
+Système de Gestion Bancaire 
 
 Application Java développée dans le cadre d’un projet académique afin de mettre en pratique les concepts de base de la Programmation Orientée Objet.
 
